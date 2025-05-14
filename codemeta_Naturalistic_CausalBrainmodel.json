@@ -1,0 +1,20 @@
+{
+  "@context": "https://w3id.org/codemeta/3.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Naturalistic-CausalBrainModel",
+  "description": "This software implements a thermodynamics-inspired whole-brain model paradigm to investigate the hierarchical reorganization of functional brain activity across various cognitive conditions. By analyzing fMRI data obtained during naturalistic movie-watching, seven distinct cognitive tasks, and resting state, the model reveals condition-specific patterns in causal interactions and levels of nonreversibility. Notably, movie-watching induces a flatter brain hierarchy and reduced nonreversibility compared to rest and tasks. The core mechanism underpinning these findings is derived from model-based generative effective connectivity (GEC), which integrates anatomical and functional connectivity to quantify causal flows in brain networks. This tool supports advanced research into the dynamic structure of brain function and may be useful for studying neuropsychiatric disorders characterized by altered brain hierarchy and connectivity.",
+  "codeRepository": "https://github.com/decolab/gec",
+  "dateCreated": "2023-06-13",
+  "license": "https://spdx.org/licenses/CC-BY-4.0",
+  "applicationCategory": "Neuroscience",
+  "keywords": [
+    "naturalistic stimuli",
+    "generative effective connectivity"
+  ],
+  "programmingLanguage": [
+    {
+      "@type": "ComputerLanguage",
+      "name": "MATLAB"
+    }
+  ]
+}
