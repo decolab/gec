@@ -1,0 +1,39 @@
+{
+  "@context": "https://w3id.org/codemeta/3.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Naturalistic-CausalBrainModel",
+  "description": "This repository provides a MATLAB implementation of the Generative Connectivity of the Arrow of Time (GCAT) framework,\n"
+  "developed to investigate how the hierarchical organisation of brain activity changes under naturalistic conditions.\n"
+  "Specifically, it enables the analysis of fMRI data from the Human Connectome Project (HCP), comparing movie-watching and rest.\n"
+  "The GCAT metric quantifies directionally-resolved effective connectivity across cortical regions,\n"
+  "offering a novel approach to assess the breakdown of hierarchical brain structures during ecologically valid stimulation.\n"
+  "For methodology, usage, and reproducibility guidelines, see [README.md](https://github.com/decolab/gec/blob/main/README.md) (https://github.com/decolab/gec/blob/main/README.md)",
+  "codeRepository": "https://github.com/decolab/gec",
+  "downloadUrl": "https://github.com/decolab/gec/releases/tag/v1.0.0",
+  "dateCreated": "2023-06-13",
+  "datePublished": "2025-06-25",
+  "license": "https://spdx.org/licenses/CC-BY-NC-4.0",
+  "applicationCategory": "Neuroscience",
+  "keywords": [
+    "naturalistic stimuli",
+    "generative effective connectivity"
+  ],
+  "programmingLanguage": [
+    {
+      "@type": "ComputerLanguage",
+      "name": "MATLAB"
+    }
+  ],
+  "author": {
+  "@type": "Person",
+  "givenName": "Gustavo",
+  "familyName": "Deco",
+  "email": "gustavo.deco@upf.edu",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University Pompeu Fabra"
+  }
+}
+
+  
+}
