@@ -1,6 +1,6 @@
-# GEC Framework
+# Generative Effective Connectivity (GEC) Framework
 
-**Matlab implementation of the GCAT framework** developed for:
+**Matlab implementation of the GEC framework** developed for:
 
 > *Kringelbach, Sanz Perl, Tagliazucchi, and Deco.*\
 > “Towards a naturalistic neuroscience: mechanisms underlying the flattening of brain hierarchical organisation in movie‑watching compared to rest and task.”
@@ -11,7 +11,7 @@ This repository provides MATLAB code to analyze fMRI data from the Human Connect
 
 ## Purpose & Scope
 
-- Uses a hierarchy-sensitive metric: Generative Connectivity of the Arrow of Time.
+- Uses a hierarchy-sensitive metric: Generative Connectivity of the Arrow of Time (GCAT).
 - Compares hierarchical organization across movie-watching and rest paradigms.
 - Supports naturalistic neuroscience.
 - Designed to be compatible with HCP 3T and 7T datasets.
