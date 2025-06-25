@@ -37,7 +37,7 @@ This repository provides MATLAB code to analyze fMRI data from the Human Connect
 
 1. Download the preprocessed HCP data as needed (e.g., convert to MATLAB-compatible time series).
 2. Load the time series data into the workspace.
-3. Run the matlab scripts
+3. Run the matlab scripts.
 4. Visualize and interpret the GCAT metric.
 5. Compare conditions statistically.
 
